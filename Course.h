@@ -1,3 +1,11 @@
+//============================================================================
+// Name        : Course.cpp
+// Author      : Christopher Richards
+// Email	   : christopher.richards4@snhu.edu
+// Version     : 1.0
+// Copyright   : Copyright © 2022 Chris Richards
+//============================================================================
+
 #pragma once
 
 #include <string>
